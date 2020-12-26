@@ -1,12 +1,3 @@
-# Shirt Sizes
-
-Going to be a TDD app, using Webpack, React & Redux
-
-
-![App ScreenShot](screenshot.png "App ScreenShot")
-
-[http://shirts.surge.sh/](http://shirts.surge.sh/)
-
 ## Styleguides
 
 ### Git Commit Messages
